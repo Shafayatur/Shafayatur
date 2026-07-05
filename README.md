@@ -6,7 +6,7 @@
 <h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30"> I'm Shafayatur Rahman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1A56A0&center=true&vCenter=true&width=600&lines=Building+LLM-powered+applications;Designing+RAG+pipelines+that+don't+hallucinate;Automating+everything+I+can;BSc+Computer+Science+%40+BRAC+University+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1A56A0&center=true&vCenter=true&width=600&lines=Building+LLM-powered+applications;Designing+RAG+pipelines+that+don't+hallucinate;Automating+everything+I+can;BSc+Computer+Science+and+Engineering%40+BRAC+University+2026" alt="Typing SVG" />
 </p>
 
 <p align="center">
